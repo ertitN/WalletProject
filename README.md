@@ -22,7 +22,7 @@ mvn clean install
 or if you don't have installed maven on your OS
 
 ```
-mvnw clan install
+mvnw clean install
 ```
 This will run the unit tests of the project and create the jar file.
 
